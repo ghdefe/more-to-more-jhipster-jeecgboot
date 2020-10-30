@@ -1,0 +1,23 @@
+{
+  "demo6App": {
+    "userBase": {
+      "home": {
+        "title": "User Bases",
+        "createLabel": "创建新 User Base",
+        "createOrEditLabel": "创建或编辑 User Base",
+        "notFound": "No User Bases found"
+      },
+      "created": "User Base {{ param }} 创建成功",
+      "updated": "User Base {{ param }} 更新成功",
+      "deleted": "User Base {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 User Base {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "User Base"
+      },
+      "username": "Username",
+      "phone": "Phone"
+    }
+  }
+}

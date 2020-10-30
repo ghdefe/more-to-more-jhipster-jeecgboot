@@ -1,0 +1,22 @@
+{
+  "demo6App": {
+    "roleName": {
+      "home": {
+        "title": "Role Names",
+        "createLabel": "创建新 Role Name",
+        "createOrEditLabel": "创建或编辑 Role Name",
+        "notFound": "No Role Names found"
+      },
+      "created": "Role Name {{ param }} 创建成功",
+      "updated": "Role Name {{ param }} 更新成功",
+      "deleted": "Role Name {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Role Name {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Role Name"
+      },
+      "name": "Name"
+    }
+  }
+}

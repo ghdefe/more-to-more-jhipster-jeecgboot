@@ -1,0 +1,23 @@
+{
+  "demo6App": {
+    "userBaseRoleName": {
+      "home": {
+        "title": "User Base Role Names",
+        "createLabel": "创建新 User Base Role Name",
+        "createOrEditLabel": "创建或编辑 User Base Role Name",
+        "notFound": "No User Base Role Names found"
+      },
+      "created": "User Base Role Name {{ param }} 创建成功",
+      "updated": "User Base Role Name {{ param }} 更新成功",
+      "deleted": "User Base Role Name {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 User Base Role Name {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "User Base Role Name"
+      },
+      "userBaseId": "User Base Id",
+      "roleNameId": "Role Name Id"
+    }
+  }
+}
